@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    justify-content: center;
+    height: 600px;
+    align-items: center;
+
+    
+}
+.btn{
+    position: relative;
+    padding: 20px 30px;
+    border: 1px solid;
+    background-color: hsl(234, 78%, 59%);
+    color: white;
+    border-radius: 2px;
+}
+
+.badge{
+    position: absolute;
+    color: white;
+    height: 20px;
+    width: 20px;
+    background-color: black;
+    padding: 5px;
+    border-radius: 17px;
+    top: -20px;
+    right: -15px;
+    text-align: center;
+   
+ 
+
+
+}
